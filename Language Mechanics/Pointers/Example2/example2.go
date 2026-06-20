@@ -13,8 +13,8 @@ func main() {
 
 	// Declare and initialize a variable named bill of type user.
 	bill := user{
-		name:  "Bill",
-		email: "bill@ardanlabs.com",
+		name:  "rifat",
+		email: "rifat@gmail.com",
 	}
 
 	//** We don't need to include all the fields when specifying field

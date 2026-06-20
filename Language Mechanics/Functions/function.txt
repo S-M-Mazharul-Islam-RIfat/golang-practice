@@ -1,0 +1,21 @@
+1. argument vs parameter
+2. pure funcion (same output for the same input)
+3. first order function (a simple function which works with the basic stuff and data types)
+	i. standard function or named function
+	ii. anonymous function
+	iii. IIFE
+	iv. function expression
+4. first class funciton
+   i. A function can be stored in a variable
+	ii. A function can be stored in an array
+	iii. A function can be stored in an object
+	iv. We can create function as we need
+5. higher order function (HOF)
+   i. take function as a parameter
+	ii. return function from a function
+	iii. both i & ii
+6. callback function (if a function is received as parameter in HOF)
+7. closure
+8. init function
+9. receiver function
+10. variadic function
